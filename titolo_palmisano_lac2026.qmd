@@ -609,8 +609,8 @@ Download the presentation:
 
 <br>
 
- {{< ai zenodo >}} [https://doi.org/10.5281/zenodo.15124042](https://doi.org/10.5281/zenodo.15124042)
+ {{< ai zenodo >}} [https://doi.org/10.5281/zenodo.19126661](https://doi.org/10.5281/zenodo.19126661)
 
- {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/arwa-lecture-2025) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+ {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/lac2026) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # References

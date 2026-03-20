@@ -174,13 +174,13 @@ format:
 ::: {.column width="50%"}
 
 ::: {.fragment fragment-index=1}
-- Published dataset with high locational accuracy, size estimates, and an analysis-ready structure (6500-1312 BP) [@Titolo.Palmisano2025]
+- Published dataset with high locational accuracy, size estimates, analysis-ready structure (6500-1312 BP) [@Titolo.Palmisano2025]
 - Freely accessible at Zenodo [https://doi.org/10.5281/zenodo.15111732](https://doi.org/10.5281/zenodo.15111732)
 :::
 
 
 ::: {.fragment fragment-index=2}
-- Smaller subset for the time period 6500-2200 BP
+- Smaller subset (6500-2200 BP)
 - **3153** arch. sites and **6331** site-phases
 - **1378** radiocarbon dates
 - **4** Paleoclimate proxies
